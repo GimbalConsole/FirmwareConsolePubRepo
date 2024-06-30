@@ -25,4 +25,4 @@ echo $file_name
 curl -L "$download_url" -o "$file_name"
 chmod 777 $file_name
 
-./GimbalLoader 24 $file_name
+./GimbalLoader 25 $file_name
